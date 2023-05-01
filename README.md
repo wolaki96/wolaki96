@@ -1,9 +1,9 @@
 # Welcome 😄
 My name is Iia (ee-ya, it's Swedish!)
-I started learning programming in September 2023 and fell in love!
-I am currently looking for work while working on my JavaScript and Python skills in my freetime.
+I started learning programming in September 2023 through a coding bootcamp at UCF and found that data analysis was my favorite part of the course!
+I am currently looking for work while working on my SQL, Excel, and Python skills to switch careers into data!
 
-Feel free to talk to me about coffee, linguistics, books, or coding projects 👾
+Feel free to talk to me about coffee, linguistics, books, or SQLprojects 👾
 
 Languages: 
 
