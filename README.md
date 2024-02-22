@@ -1,7 +1,8 @@
 # Welcome 😄
 My name is Iia (ee-ya, it's Swedish!)
 I started learning programming in September 2023 through a coding bootcamp at UCF and found that data analysis was my favorite part of the course!
-I am currently looking for work while working on my SQL, Excel, and Python skills to switch careers into data!
+I am currently working in data entry  while working on my SQL, Excel, and Python skills.
+I recently decided I would love to learn how to create games and work on more languages. 
 
 Feel free to talk to me about coffee, linguistics, books, or SQLprojects 👾
 
